@@ -1,0 +1,29 @@
+statistics,Machine Learning,Deep Learning,R Language,Python language,NLP,Data Engineering,Other Langs
+statistical models,linear regression,neural network,r,python,nlp,aws,C
+statistical modelling,logistic regression,keras,ggplot,flask,natural languag processing,ec2,C++
+probability,K means,theano,shiny,django,topic modelling,amazon redshift,Java
+normal distribution,random forest,face detection ,cran,pandas,Ida,s3,Ruby
+poission distribution,xgboost,neural networks,dplyr,numpy,named entity recognition,docker,C#
+survival models,svm,recurrent neural network (RNN),tidyr,scikitlearn,pos tagging,kubernetes,HTML
+hypothesis testing ,naïve bayes,convolution neural network (CNN),lubridate,sklearn,word2vec,scala,"C,"
+bayesian inference,PCA,object detection,knitr,matplotlib,word embedding ,teradata,"C++,"
+facto analysis,decision trees,yolo,,scipy,Isi,google big query,"Java,"
+markov chain,ensemble models ,gpu,,bokeh,spacy,aws lambda,JavaScript
+monte carlo,boltzman machine,cuda,,statsmodel,genism,aws emr,"JavaScript,"
+,,tensorflow,,,nltk,hive,
+,,lstm,,,nmf,hadoop sql,
+,,gan,,,doc2vec,Hadoop ,
+,,opencv,,,cbow,MapReduce,
+,,,,,bag of words,MySQL,
+,,,,,skip gram,NoSQL,
+,,,,,ber,MongoDB,
+,,,,,sentiment analysis,Cassandra,
+,,,,,chat bot,SAS,
+,,,,,,"MapReduce,",
+,,,,,,"Big Table,",
+,,,,,,"MySQL,",
+,,,,,,"Hadoop,",
+,,,,,,"(Cassandra,",
+,,,,,,MongoDB),
+,,,,,,?NoSQL,
+,,,,,,"?Hadoop,",
